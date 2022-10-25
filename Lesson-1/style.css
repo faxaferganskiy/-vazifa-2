@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(236, 235, 235);
+}
+.card-country{
+    background-color: #fff;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.294384);
+    border-radius: 5px;
+    width: 264px;
+    height: 336px;
+}
+.card-country img{
+width: 267px;
+height: 160px;
+}
+.card-country h3{
+    
+}
