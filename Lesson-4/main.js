@@ -21,7 +21,7 @@ for (let news of daryoPostlari) {
     newP.setAttribute("id", news.id )
    
     link.setAttribute("href", news.links)
-    newButton.setAttribute("class", "btn-lg")
+    // newButton.setAttribute("class", "btn-lg")
     newButton.setAttribute("class", "btn-lg")
     colDiv.setAttribute("class", "col-3 card")
     colDiv.setAttribute("style", "padding: 10px;")
